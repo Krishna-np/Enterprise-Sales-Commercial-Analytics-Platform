@@ -172,7 +172,7 @@ Interactive visualizations transform analytical outputs into business-ready insi
 ## Key Business Insights
 
 - Revenue growth declined from **5.07% in 2023** to **−6.69% in 2024**, indicating weaker commercial momentum.
-- A pipeline coverage ratio of **0.44×** is well below the commonly accepted **3–4× benchmark**, highlighting the need to strengthen pipeline generation.
+- A pipeline coverage ratio of **0.38×** is well below the commonly accepted **3–4× benchmark**, highlighting the need to strengthen pipeline generation.
 - Customer segmentation identifies a relatively small group of high-value customers alongside a larger at-risk segment, emphasizing the importance of proactive retention strategies.
 - Inventory analytics highlights products with elevated stockout risk, creating opportunities to improve demand planning and supplier performance.
 - Executive dashboards consolidate cross-functional KPIs into a single reporting layer, enabling faster and more consistent business decision-making.
